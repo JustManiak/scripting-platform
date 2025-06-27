@@ -1,4 +1,4 @@
-#Dorking Tool
+# Dorking Tool
 # This file has been obfuscated with <3 by discord.gg/obfuscate | nyami.cc
 import marshal as FS2qzjiJjTU6oYy5y5vdJ5
 import base64 as epJAKcTdOtn6cfx4
