@@ -1,3 +1,4 @@
+# Proxy Scraper/Generator/Checker
 # This file has been obfuscated with <3 by discord.gg/obfuscate | nyami.cc
 import marshal as zc1nhtmlEZWIge_62C53Fsjl
 import base64 as yjtwfiexdoZ2PLCh
